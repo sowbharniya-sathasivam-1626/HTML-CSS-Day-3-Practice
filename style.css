@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    height: 100%;
+}
+.header{
+    height: 40px;
+    background-color: #ffebcd;
+    padding: 20px;
+    text-align: center;
+}
+.navbar{
+    height: 60px;
+    background-color: #f0ffff;
+    position: sticky;
+    top: 0;
+}
+#footer{
+    height: 20px;
+    background-color: #ff6347;
+    padding: 20px;
+    text-align: center;
+}
+#box{
+    background-color: #11314d;
+    color: #f0ffff;
+    word-spacing: 2px;
+    padding: 20px;
+}
+.navbar ul li{
+    display: inline-block;
+    list-style: none;
+    padding: 20px;
+    line-height: 30px;
+}
